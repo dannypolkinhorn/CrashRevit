@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+   <AddIn Type="Application">
+      <Assembly>CrashRevit.dll</Assembly>
+      <ClientId>d5ac406f-4170-4aff-a6f6-39c1de83d5cf</ClientId>
+      <FullClassName>CrashRevit.UI</FullClassName>
+      <Name>Crash Revit</Name>
+      <VendorId>DJP</VendorId>
+      <VendorDescription></VendorDescription>	  
+   </AddIn>
+</RevitAddIns>
